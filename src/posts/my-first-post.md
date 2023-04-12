@@ -10,6 +10,8 @@ tags:
   - center
   - right
 ---
+![test](/static/img/heman.gif "test")
+
 # This is a Heading h1
 
 ## This is a Heading h2
