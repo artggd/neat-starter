@@ -1,3 +1,4 @@
+locale: fr
 backend:
   # Use netlify identity as backend
   name: git-gateway
