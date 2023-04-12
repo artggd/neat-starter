@@ -6,7 +6,7 @@ description: Capitalize on low hanging fruit to identify a ballpark value added
 author: Arthur
 titre: Coolos
 date: 2020-09-01
-corps: Ouais
+corps: cool Ouais
 tags:
   - Cafés des sciences
 ---
