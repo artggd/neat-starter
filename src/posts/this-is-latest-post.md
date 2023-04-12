@@ -8,7 +8,7 @@ author: Surjith S M
 date: 2020-09-23T15:13:13.021Z
 tags: second-tag
 ---
-![](/static/img/img_8011.jpeg?nf_resize=fit&w=300&h=400)
+![](/static/img/img_8011.jpeg)
 
 
 
